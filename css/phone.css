@@ -1,0 +1,12 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 62.5%;
+}
+body{
+background-image: url('https://isquad.tv/wp-content/uploads/2018/08/Netflix-Background.jpg');
+}
